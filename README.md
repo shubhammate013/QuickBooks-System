@@ -39,7 +39,7 @@ pip install -r requirements.txt
 #### 4. Edit project settings
 ```bash
 # open settings file
-vim quickbooks_system/settings.py
+vim quickbooks/settings.py
 
 # Edit Access token.
 # Search for ACCESS_TOKEN section.

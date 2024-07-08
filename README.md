@@ -27,7 +27,7 @@ source envs/bin/activate
 
 #### 2. Clone git repository
 ```bash
-git clone "https://github.com/Manisha-Bayya/QuickBooks.git"
+git clone "https://github.com/shubhammate013/QuickBooks-System.git"
 ```
 
 #### 3. Install requirements

@@ -32,14 +32,14 @@ git clone "https://github.com/shubhammate013/QuickBooks-System.git"
 
 #### 3. Install requirements
 ```bash
-cd QuickBooks/
+cd QuickBooks_System/
 pip install -r requirements.txt
 ```
 
 #### 4. Edit project settings
 ```bash
 # open settings file
-vim quickbooks/settings.py
+vim quickbooks_system/settings.py
 
 # Edit Access token.
 # Search for ACCESS_TOKEN section.
